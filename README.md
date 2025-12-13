@@ -49,7 +49,7 @@ A modern, responsive, and minimal website showcasing my projects, skills, experi
 |--------|-------|------|------|
 | Smart Expense Tracker | JS / Vite | ✅ | ✅ |
 | Weather App Dashboard | JS / API | ✅ | ✅ |
-| Task Manager App | MERN | ✅ | ✅ |
+| Fraud detection dashboard | MERN | ✅ | ✅ |
 
 
 
